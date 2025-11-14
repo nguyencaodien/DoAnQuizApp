@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfQuizResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuizResult>
+    <StudentName>Nguyễn Cao Điền</StudentName>
+    <QuizTitle>Cấu Trúc Dữ Liệu</QuizTitle>
+    <Score>
+      <Value>5</Value>
+    </Score>
+    <TotalQuestions>20</TotalQuestions>
+    <CompletedDate>2025-11-14T00:05:28.2178741+07:00</CompletedDate>
+    <Duration />
+  </QuizResult>
+  <QuizResult>
+    <StudentName>Quân ngu</StudentName>
+    <QuizTitle>C# Cơ Bản</QuizTitle>
+    <Score>
+      <Value>5</Value>
+    </Score>
+    <TotalQuestions>20</TotalQuestions>
+    <CompletedDate>2025-11-14T00:06:33.9123759+07:00</CompletedDate>
+    <Duration />
+  </QuizResult>
+</ArrayOfQuizResult>
