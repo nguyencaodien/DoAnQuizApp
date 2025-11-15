@@ -1,0 +1,93 @@
+C:\Users\User\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\User\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\User\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\User\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+C:\Users\User\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\User\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.exe.config
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.AvailableQuizzesControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.MainForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.QuizForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.ResultDetailForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.ResultsForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.LoginForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.HistoryViewControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.RegisterForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.TeacherMainForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.StudentMainForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Formchucnang.Teacher.StatisticsControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Student.RankingControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.StudentHistoryControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.StudentProfileControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Teacher.QuizManagementControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Teacher.StudentManagementControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Admin.AdminQuizManagementControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.AdminMainForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.ChangePasswordForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.AddUserForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.EditUserForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.UserManagementControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.exe.config
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.ChangePasswordForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.AddUserForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.EditUserForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.AdminMainForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.MainForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.QuizForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.ResultDetailForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.LoginForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.RegisterForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.UserManagementControl.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.TeacherMainForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.StudentMainForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.ResultsForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Student.RankingForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.StudentProfileForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.HistoryViewForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Teacher.QuizManagementForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Formchucnang.Teacher.StatisticsForm.resources
+C:\Users\tuand\Downloads\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Teacher.StudentManagementForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.exe.config
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.ChangePasswordForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.AddUserForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.EditUserForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.AdminMainForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.MainForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.QuizForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.ResultDetailForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.ResultsForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.LoginForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.RegisterForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.TeacherMainForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Teacher.QuizManagementForm.resources
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\tuand\Downloads\QuizApp (2) (1)\QuizApp\QuizApp\QuizApp\QuizApp\obj\Debug\QuizApp.Forms.Admin.UserManagementForm.resources

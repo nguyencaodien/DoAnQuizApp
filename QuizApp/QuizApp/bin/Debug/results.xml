@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfQuizResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuizResult>
+    <StudentName>Điền</StudentName>
+    <QuizTitle>Cơ sở dữ liệu</QuizTitle>
+    <Score>
+      <Value>6</Value>
+    </Score>
+    <TotalQuestions>20</TotalQuestions>
+    <CompletedDate>2025-11-16T01:05:25.5890726+07:00</CompletedDate>
+    <Duration />
+  </QuizResult>
+  <QuizResult>
+    <StudentName>Đạt</StudentName>
+    <QuizTitle>Mạng máy tính</QuizTitle>
+    <Score>
+      <Value>15</Value>
+    </Score>
+    <TotalQuestions>20</TotalQuestions>
+    <CompletedDate>2025-11-16T01:06:19.9919339+07:00</CompletedDate>
+    <Duration />
+  </QuizResult>
+</ArrayOfQuizResult>

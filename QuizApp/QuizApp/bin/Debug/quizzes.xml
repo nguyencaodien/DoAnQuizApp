@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<ArrayOfQuiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Quiz>
+    <FilePath>C:\Users\tuand\OneDrive\Tài liệu\Baitap\Mạng máy tính.txt</FilePath>
+    <Title>Mạng máy tính</Title>
+    <Description>Giữa kì</Description>
+    <Questions>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Mạng máy tính là gì?</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Tập hợp các máy tính được kết nối để chia sẻ dữ liệu và tài nguyên</string>
+          <string>Một máy tính đơn lẻ</string>
+          <string>Tập tin trong máy tính</string>
+          <string>Hệ điều hành</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Giao thức TCP/IP dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Truyền dữ liệu qua mạng theo chuẩn liên kết</string>
+          <string>Lưu dữ liệu trong máy tính</string>
+          <string>Tạo bảng trong cơ sở dữ liệu</string>
+          <string>Quản lý user trong hệ thống</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Địa chỉ IP dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Định danh một thiết bị trên mạng</string>
+          <string>Lưu trữ dữ liệu</string>
+          <string>Mở cửa sổ chương trình</string>
+          <string>Tạo mật khẩu</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Subnet mask dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Xác định phần mạng và phần host trong địa chỉ IP</string>
+          <string>Định danh user</string>
+          <string>Xác định gateway mặc định</string>
+          <string>Kết nối Bluetooth</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Gateway dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Kết nối mạng nội bộ với mạng bên ngoài</string>
+          <string>Backup dữ liệu</string>
+          <string>Quản lý user</string>
+          <string>Kết nối máy in</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>DNS dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Biến tên miền thành địa chỉ IP</string>
+          <string>Truyền dữ liệu an toàn</string>
+          <string>Lưu trữ dữ liệu</string>
+          <string>Tạo subnet mask</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Giao thức HTTP dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Truyền dữ liệu web</string>
+          <string>Truyền file qua FTP</string>
+          <string>Định tuyến mạng</string>
+          <string>Giám sát mạng</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Giao thức HTTPS khác HTTP ở điểm:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Dữ liệu được mã hóa bằng SSL/TLS</string>
+          <string>Tốc độ chậm hơn nhiều</string>
+          <string>Không thể truyền hình ảnh</string>
+          <string>Chỉ dùng trong mạng LAN</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Giao thức FTP dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Truyền và nhận file giữa các máy trên mạng</string>
+          <string>Truyền email</string>
+          <string>Mã hóa dữ liệu web</string>
+          <string>Kết nối Bluetooth</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Mạng LAN là:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Mạng cục bộ trong phạm vi hẹp</string>
+          <string>Mạng toàn cầu</string>
+          <string>Mạng không dây quốc tế</string>
+          <string>Mạng kết nối vệ tinh</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Mạng WAN là:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Mạng diện rộng, kết nối nhiều LAN</string>
+          <string>Mạng cục bộ</string>
+          <string>Mạng riêng tư nhỏ</string>
+          <string>Mạng không dây ngắn</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Switch dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Kết nối nhiều thiết bị trong LAN và chuyển dữ liệu thông minh</string>
+          <string>Kết nối mạng WAN</string>
+          <string>Tạo IP tĩnh</string>
+          <string>Quản lý DNS</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Hub khác switch ở điểm:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Hub gửi dữ liệu đến tất cả cổng, switch gửi đến đúng đích</string>
+          <string>Hub quản lý DNS</string>
+          <string>Hub kết nối WAN</string>
+          <string>Hub mã hóa dữ liệu</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Router dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Kết nối các mạng khác nhau và định tuyến dữ liệu</string>
+          <string>Kết nối máy in</string>
+          <string>Backup dữ liệu</string>
+          <string>Mã hóa email</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Mạng không dây WLAN dùng:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Sóng radio để truyền dữ liệu</string>
+          <string>Cáp quang</string>
+          <string>Cáp đồng</string>
+          <string>Kết nối Bluetooth</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>MAC address dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Xác định thiết bị vật lý trong mạng LAN</string>
+          <string>Xác định IP</string>
+          <string>Lưu mật khẩu</string>
+          <string>Quản lý subnet mask</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Giao thức SMTP dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Gửi email</string>
+          <string>Nhận email</string>
+          <string>Truyền file</string>
+          <string>Mã hóa dữ liệu web</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Giao thức POP3/IMAP dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Nhận email từ máy chủ</string>
+          <string>Truyền dữ liệu web</string>
+          <string>Định tuyến mạng</string>
+          <string>Kết nối LAN</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Ping dùng để:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Kiểm tra kết nối mạng giữa các thiết bị</string>
+          <string>Truyền file</string>
+          <string>Backup dữ liệu</string>
+          <string>Mã hóa dữ liệu</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+      <Question xsi:type="MultipleChoiceQuestion">
+        <Text>Bandwidth trong mạng là:</Text>
+        <Points>1</Points>
+        <Choices>
+          <string>Băng thông truyền dữ liệu tối đa</string>
+          <string>Kích thước RAM</string>
+          <string>Dung lượng ổ cứng</string>
+          <string>Số IP khả dụng</string>
+        </Choices>
+        <CorrectIndex>0</CorrectIndex>
+      </Question>
+    </Questions>
+    <TimeLimit>30</TimeLimit>
+  </Quiz>
+</ArrayOfQuiz>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>1</Id>
+    <Username>DatPham</Username>
+    <PasswordHash>RvTtpxtXGuztwaYjUzx6vnz797+ujV7GlOtstv1+rdk=</PasswordHash>
+    <FullName>Phạm Tuấn Đạt</FullName>
+    <Email>datpham.31241025205@st.ueh.edu.vn</Email>
+    <Role>Admin</Role>
+    <IsActive>true</IsActive>
+    <CreatedDate>2025-11-14T03:24:24.7526972+07:00</CreatedDate>
+    <Phone>0816655551</Phone>
+    <Address>Kiên Giang</Address>
+  </User>
+  <User>
+    <Id>2</Id>
+    <Username>QuanTran</Username>
+    <PasswordHash>ZY12H12jANpuKrdLdXHwBFUZ4G62kX0oF2R6rMMTQe8=</PasswordHash>
+    <FullName>Trần Lê Quân</FullName>
+    <Email>quantran.31241021135@st.ueh.edu.vn</Email>
+    <Role>Teacher</Role>
+    <IsActive>true</IsActive>
+    <CreatedDate>2025-11-14T03:35:04.096364+07:00</CreatedDate>
+    <Phone>0987654321</Phone>
+    <Address>TP HCM</Address>
+  </User>
+  <User>
+    <Id>3</Id>
+    <Username>DienNguyen</Username>
+    <PasswordHash>DO5f+0ZS8jnPS8ynNwijcmtMJujs5YbZmAJy84KHAeo=</PasswordHash>
+    <FullName>Nguyễn Cao Điền</FullName>
+    <Email>diennguyen.31241023473@st.ueh.edu.vn</Email>
+    <Role>Student</Role>
+    <IsActive>true</IsActive>
+    <CreatedDate>2025-11-14T03:36:02.5819035+07:00</CreatedDate>
+    <Phone>1234567890</Phone>
+    <Address>Đồng Tháp</Address>
+  </User>
+  <User>
+    <Id>4</Id>
+    <Username>admin</Username>
+    <PasswordHash>JAvlGPq9JyTdtvBO6x2llnRI1+gxwIyPqCKAn3THIKk=</PasswordHash>
+    <FullName>Administrator</FullName>
+    <Email>admin@example.com</Email>
+    <Role>Admin</Role>
+    <IsActive>true</IsActive>
+    <CreatedDate>2025-11-16T01:08:00.9098891+07:00</CreatedDate>
+    <Phone />
+    <Address />
+  </User>
+</ArrayOfUser>
